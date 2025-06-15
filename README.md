@@ -22,6 +22,7 @@
 之后就可以在`菜单`添加`资源目录`啦
 
 # AI的使用
+- AI功能在v1.4.7中初步加入,你有什么好的建议可以给我提`Issues`
 1. 在`菜单/设置`中添加一个AI配置,AI支持`OpenAI`,`Ollama`
 ![image](https://github.com/user-attachments/assets/0f2b692f-dc53-40c0-abf3-fd3e2c80bfbb)
 2. 添加后,使用它
