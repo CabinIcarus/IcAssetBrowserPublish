@@ -43,3 +43,12 @@
 ![image](https://github.com/user-attachments/assets/fe0d4f3c-691c-4026-99d0-5d0158f77ba5)
 ![image](https://github.com/user-attachments/assets/a04133b1-e8db-4371-96df-24fbbe8fd24a)
 ![image](https://github.com/user-attachments/assets/63ef2f69-25c3-4464-a4f8-ef00779a4f9d)
+
+
+# 一些依赖
+- [AvaloniaUI](https://github.com/AvaloniaUI/Avalonia)
+- [SukiUI](https://github.com/kikipoulet/SukiUI)
+- [NAudio](https://github.com/naudio/NAudio)
+- [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions)
+- [Material.Icons](https://github.com/AvaloniaUtils/Material.Icons.Avalonia)
+- [SQLite](https://www.nuget.org/packages/SQLite)
